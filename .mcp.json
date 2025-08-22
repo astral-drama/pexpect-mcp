@@ -2,8 +2,8 @@
   "mcpServers": {
     "pexpect": {
       "type": "stdio",
-      "command": "uv",
-      "args": ["run", "pexpect-mcp"],
+      "command": "pexpect-mcp",
+      "args": [],
       "env": {}
     }
   }

@@ -15,6 +15,19 @@ a stateful Python session.
 
 ## Installation
 
+### From Local Repository
+
+```bash
+# Clone the repository
+git clone https://github.com/mitsuhiko/pexpect-mcp
+cd pexpect-mcp
+
+# Install using uv tool
+uv tool install .
+```
+
+### From Git Repository
+
 ```bash
 uv tool install git+https://github.com/mitsuhiko/pexpect-mcp
 ```
